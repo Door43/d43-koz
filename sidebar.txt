@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[koz:home|Door43 (koz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-koz|d43-koz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-koz/archive/master.zip|d43-koz.zip]]
+
+**Recent Changes**
+{{changes>ns = koz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/koz|Ethnologue data]]
+
